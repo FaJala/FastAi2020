@@ -1,1 +1,1 @@
-# FastAi2020
+# Pollinators Classifier
